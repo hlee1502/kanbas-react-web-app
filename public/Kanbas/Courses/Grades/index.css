@@ -1,0 +1,177 @@
+.wd-grades-row {
+    display: flex;
+    flex-direction: row;
+    padding-top: 0.5rem;
+}
+
+.wd-grades hr {
+    margin-top: 0;
+}
+
+.wd-grades .fa-bars {
+    margin-top: 12px;
+    padding-right: 20px;
+    color: #cc0000;
+}
+
+.wd-grades .wd-class-breadcrumb {
+    color: #cc0000;
+    font-size: large;
+}
+
+.wd-grades .wd-current-page {
+    color: black;
+    font-size: large;
+}
+
+.btn-primary {
+    background-color: #cc0000;
+    border-color: #cc0000;
+}
+
+.btn-primary:hover {
+    background-color:#cc0000;
+    border-color: #cc0000;
+}
+
+.btn-secondary {
+    color:black; 
+    border-color:#d1d1d1; 
+    background-color: #ebebeb;
+}
+
+.btn-secondary:hover {
+    color:black; 
+    border-color:#d1d1d1; 
+    background-color: #ebebeb;
+}
+
+.fa-file-import {
+    margin-right: 10px;
+}
+
+.fa-file-export {
+    margin-right: 10px;
+}
+
+.wd-name-title {
+    vertical-align: middle;
+    text-align: left;
+    width: 20%;
+}
+
+.wd-name-column {
+    text-align: left;
+    width: 20%;
+    color: #cc0000!important;
+}
+
+.table {
+    vertical-align: middle;
+}
+
+.table .form-control {
+    width: 70px;
+}
+
+.col-5 {
+    width: 100px;
+}
+
+.fa-bars {
+    color: white;
+}
+
+.fa-glasses {
+    color: white;
+    margin-right: 5px;
+}
+
+.fa-xmark {
+    color: white;
+}
+
+.fa-chevron-down {
+    color: white;
+}
+
+.fa a {
+    text-decoration: none;
+    color: white;
+}
+
+.navbar-brand {
+    font-size: medium;
+}
+
+.bg-dark {
+    background-color: black!important;
+}
+
+.wd-small-cnav .fa {
+    margin-right: 8px;
+}
+
+.wd-small-cnav .fa-regular {
+    margin-right: 8px;
+}
+
+.wd-small-cnav .list-group {
+    border-radius: 0;
+}
+
+.wd-small-cnav .list-group-item {
+    border: none;
+    color: #cc0000;
+}
+
+.wd-small-cnav .list-group-item a {
+    color: #cc0000;
+    text-decoration: none;
+}
+
+.wd-small-cnav .list-group-item.active a {
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.wd-small-cnav .list-group-item.active {
+    font-weight: bold;
+    text-decoration: none;
+    background-color: white;
+}
+
+.bg-light {
+    background-color: white!important;
+}
+
+.wd-small-knav .list-group {
+    border-radius: 0;
+    margin-left: 20px;
+}
+
+.wd-small-knav .list-group-item {
+    border: none;
+    color: #cc0000;
+}
+
+.wd-small-knav .list-group-item a {
+    color: #cc0000;
+    text-decoration: none;
+}
+
+.wd-small-knav .list-group-item.active a {
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.wd-small-knav .list-group-item.active {
+    font-weight: bold;
+    text-decoration: none;
+    background-color: white;
+}
+
+.wd-small-knav .fa {
+    margin-right: 8px;
+}
+

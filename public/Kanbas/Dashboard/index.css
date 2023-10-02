@@ -1,0 +1,50 @@
+.wd-cards {
+    width: 100%;
+}
+
+.wd-cards .col {
+    width: 280px;
+    height: 280px;
+    margin-top: 40px;
+}
+
+
+.wd-dashboard .navbar {
+    padding-bottom: 0%;
+}
+
+.wd-dashboard .container-fluid {
+    padding-left: 0%;
+}
+
+.wd-dashboard .navbar-brand {
+    font-size: xx-large;
+}
+
+.wd-dashboard hr {
+    margin-top: 0;
+}
+
+.wd-pub-courses {
+    padding-left:20px;
+}
+
+.wd-pub-courses .navbar {
+    padding-bottom: 0%;
+}
+
+.wd-pub-courses .container-fluid {
+    padding-left: 0;
+}
+
+.wd-pub-courses .navbar-brand {
+    font-size: x-large;
+}
+
+.wd-pub-courses hr {
+    margin-top: 0;
+}
+
+.wd-cards img {
+    height: 150px;
+}

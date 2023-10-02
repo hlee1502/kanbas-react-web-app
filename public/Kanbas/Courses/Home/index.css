@@ -1,0 +1,242 @@
+.wd-home-row {
+    display: flex;
+    flex-direction: row;
+    padding-top: 0.5rem;
+    width: 100%;
+}
+
+.wd-home hr {
+    margin-top: 0;
+    width: 100%;
+    flex-grow: 1;
+}
+
+.wd-home .fa-bars {
+    margin-top: 12px;
+    padding-right: 20px;
+    color: #cc0000;
+}
+
+.wd-home .wd-class-breadcrumb {
+    color: #cc0000;
+    font-size: large;
+}
+
+.wd-home .wd-current-page {
+    color: black;
+    font-size: large;
+}
+
+.wd-module-list {
+    padding-left: 30px;
+    width: 1000px;
+}
+
+.wd-module-list .btn-secondary {
+    color:black; 
+    border-color:#d1d1d1; 
+    background-color: #ebebeb;
+}
+
+.wd-module-list .btn-secondary:hover {
+    color:black; 
+    border-color:#d1d1d1; 
+    background-color: #ebebeb;
+}
+
+.wd-module-list .btn-primary {
+    background-color:#cc0000;
+    border-color: #cc0000;
+}
+
+.wd-module-list .btn-primary:hover {
+    background-color:#cc0000;
+    border-color: #cc0000;
+}
+
+.wd-module-list .btn {
+    margin-left: 3px;
+    margin-right: 3px;
+}
+
+.wd-module-list .list-group-item-secondary {
+    padding: 1rem 1rem;
+}
+
+.wd-module-list .list-group-item {
+    border-radius: 0;
+    border-left-color: green;
+    border-left-width: 3px;
+}
+
+.wd-module-list .wd-module-item {
+    padding-left: 3rem;
+}
+
+.wd-module-list .list-group-item a {
+    color: #cc0000;
+    text-decoration: none;
+}
+
+.fa-circle-check {
+    color: green;
+}
+
+.wd-side-list p {
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.wd-side-list .btn-secondary {
+    color:black; 
+    border-color:#d1d1d1; 
+    background-color: #ebebeb;
+}
+
+.wd-side-list .fa-ban {
+    margin-right: 5px;
+}
+
+.wd-side-list .fa-circle-check {
+    margin-right: 5px;
+}
+
+.wd-side-list .btn {
+    max-width: 115px;
+    font-size: small;
+}
+
+.wd-side-buttons .btn {
+    text-align: start;
+    max-width: 230px;
+    font-size: small;
+}
+
+.wd-status-title {
+    font-size: large;
+}
+
+.wd-side-list hr {
+    margin-top: 0;
+}
+
+.wd-page-margin {
+    margin-left: 90px;
+}
+
+.btn-group {
+    width: 100%;
+}
+
+.wd-page-margin {
+    margin-left: 100px;
+}
+
+.wd-cnav-width .col {
+    width: 11%;
+}
+
+.col-5 {
+    width: 100px;
+}
+
+.col-11 {
+    min-width: 800px;
+}
+
+.fa-bars {
+    color: white;
+}
+
+.fa-glasses {
+    color: white;
+    margin-right: 5px;
+}
+
+.fa-xmark {
+    color: white;
+}
+
+.fa-chevron-down {
+    color: white;
+}
+
+.fa a {
+    text-decoration: none;
+    color: white;
+}
+
+.navbar-brand {
+    font-size: medium;
+}
+
+.bg-dark {
+    background-color: black!important;
+}
+
+.wd-small-cnav .fa {
+    margin-right: 8px;
+}
+
+.wd-small-cnav .fa-regular {
+    margin-right: 8px;
+}
+
+.wd-small-cnav .list-group {
+    border-radius: 0;
+}
+
+.wd-small-cnav .list-group-item {
+    border: none;
+    color: #cc0000;
+}
+
+.wd-small-cnav .list-group-item a {
+    color: #cc0000;
+    text-decoration: none;
+}
+
+.wd-small-cnav .list-group-item.active a {
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.wd-small-cnav .list-group-item.active {
+    font-weight: bold;
+    text-decoration: none;
+    background-color: white;
+}
+
+.bg-light {
+    background-color: white!important;
+}
+
+.wd-small-knav .list-group {
+    border-radius: 0;
+    margin-left: 20px;
+}
+
+.wd-small-knav .list-group-item {
+    border: none;
+    color: #cc0000;
+}
+
+.wd-small-knav .list-group-item a {
+    color: #cc0000;
+    text-decoration: none;
+}
+
+.wd-small-knav .list-group-item.active a {
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.wd-small-knav .list-group-item.active {
+    font-weight: bold;
+    text-decoration: none;
+    background-color: white;
+}
+
+.wd-small-knav .fa {
+    margin-right: 8px;
+}
