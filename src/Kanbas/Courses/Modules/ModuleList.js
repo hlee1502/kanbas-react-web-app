@@ -11,8 +11,6 @@ function ModuleList() {
   const { courseId } = useParams();
   const modules = db.modules;
 
-
-  
   return (
     <div className="wd-modules">
         <ButtonsM/>
