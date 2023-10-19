@@ -1,0 +1,25 @@
+.wd-home .list-group {
+    border-radius: 0px!important;
+    border: 0px!important;
+}
+
+.wd-status .btn {
+    text-align: start;
+    font-size: medium;
+    max-width: 280px;
+}
+
+.wd-status .btn-group {
+    width: 280px;
+}
+
+.wd-status .wd-icon {
+    margin-right: 10px;
+    margin-bottom: 2px;
+    max-width: 115px;
+    font-size: 15px;
+}
+
+.wd-status .wd-side-buttons .btn {
+    max-width: 280px;
+}

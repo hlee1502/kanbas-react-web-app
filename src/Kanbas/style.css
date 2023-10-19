@@ -1,0 +1,25 @@
+body * {
+    font-family: sans-serif;
+}
+
+.btn-primary {
+    --bs-btn-border-color: #cc0000!important; 
+    --bs-btn-bg: #cc0000!important;
+}
+
+.btn-primary:hover {
+    --bs-btn-hover-bg: #cc0000!important;
+    --bs-btn-hover-border-color: #cc0000!important;
+}
+
+.btn-secondary {
+    --bs-btn-color: black!important; 
+    --bs-btn-border-color: #d1d1d1!important; 
+    --bs-btn-bg: #ebebeb!important;
+}
+
+.btn-secondary:hover {
+    --bs-btn-hover-color: black!important;
+    --bs-btn-hover-bg: #d1d1d1!important;
+    --bs-btn-hover-border-color: #ebebeb!important;
+}

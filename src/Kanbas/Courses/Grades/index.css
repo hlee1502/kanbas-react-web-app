@@ -1,0 +1,17 @@
+.wd-grades .btn {
+    margin-left: 3px;
+    margin-right: 3px;
+    height: 40px;
+}
+
+.wd-grades-names {
+    text-align: left;
+    color: #cc0000!important;
+}
+
+.wd-button-icon {
+    margin-right: 10px;
+    margin-bottom: 2px;
+    max-width: 115px;
+    font-size: 15px;
+}
