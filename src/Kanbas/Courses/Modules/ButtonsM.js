@@ -5,7 +5,7 @@ import { AiOutlineCheckCircle } from "react-icons/ai"
 
 function ButtonsM() {
     return (
-        <div className="wd-modules">
+        <div className="wd-modules wd-kanbas">
             <div className="float-end wd-mod-buttons">
                 <button type="button" className="btn btn-secondary">Collapse All</button>
                 <button type="button" className="btn btn-secondary">View Progress</button>

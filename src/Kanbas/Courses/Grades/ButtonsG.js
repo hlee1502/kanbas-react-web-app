@@ -6,7 +6,7 @@ import { FiFilter } from "react-icons/fi";
 
 function ButtonsG() {
     return (
-        <div className="wd-grades mb-3">
+        <div className="wd-grades mb-3 wd-kanbas">
             <div className="row d-flex">
                 <div className="col">
                     <button type="button" className="btn btn-secondary float-end">

@@ -9,7 +9,7 @@ import { AiFillCheckCircle } from "react-icons/ai";
 
 function Status() {
     return (
-        <div className="wd-status">
+        <div className="wd-status wd-kanbas">
             <div className="btn-group" role="group" aria-label="Basic example">
                 <button type="button" className="btn btn-secondary">
                     <LuBan className="wd-icon"/>

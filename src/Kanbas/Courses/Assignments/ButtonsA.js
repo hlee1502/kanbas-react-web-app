@@ -4,7 +4,7 @@ import { BiPlus } from "react-icons/bi";
 
 function ButtonsA() {
     return (
-        <div className="wd-assignments">
+        <div className="wd-assignments wd-kanbas">
             <div className="d-flex">
                 <div className="col w-25">
                     <input className="form-control" type="text" placeholder="Search for Assignment" aria-label="assignment-search"/>

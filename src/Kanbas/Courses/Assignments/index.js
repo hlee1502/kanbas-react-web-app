@@ -14,7 +14,7 @@ function Assignments() {
   const courseAssignments = assignments.filter(
     (assignment) => assignment.course === courseId);
   return (
-    <div className="wd-assignments">
+    <div className="wd-assignments wd-kanbas">
         <ButtonsA/>
         <div className="list-group">
             <li className="list-group-item list-group-item-secondary d-flex align-items-center">
