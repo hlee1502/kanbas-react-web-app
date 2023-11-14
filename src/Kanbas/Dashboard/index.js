@@ -39,7 +39,7 @@ function Dashboard(
                         {course.name}
                         <div className="float-end">
                             <button className="btn btn-warning" style={{marginRight: "5px"}} onClick={(event) => {event.preventDefault(); setCourse(course);}}>Edit</button>
-                            <button className="btn btn-danger" onClick={(event) => {event.preventDefault(); deleteCourse(course._id);}}>Delete</button>
+                            <button className="btn btn-danger" onClick={(event) => {event.preventDefault(); deleteCourse(course);}}>Delete</button>
                         </div>
                         
                     </Link>
