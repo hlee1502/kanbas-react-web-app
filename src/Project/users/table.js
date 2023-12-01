@@ -58,8 +58,7 @@ function UserTable() {
             <table className="table">
                 <thead>
                     <tr>
-                        <th>Username</th>
-                        <th>Password</th>
+                        <th>Username/Password</th>
                         <th>First Name</th>
                         <th>Last Name</th>
                     </tr>
